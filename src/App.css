@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  align-items: center;
+  background-color: #f2f2f2;
+  padding: 30px;
+}
+
+.phonebook {
+  /* background-color: linear-gradient(36deg, #CCFFFF, #FFCCCC); */
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #ABB2B9 ;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+     align-items: center; 
+    padding: 8px;
+}
+
+.list {
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #D5D8DC ;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 50px;
+}
+
+.fillContact {
+  width: 350px;
+  /* align-items: center; */
+  border: 5px solid rgb(49, 39, 71);
+  background-color: rgb(235, 189, 130);
+  padding: 50px;
+  border-radius: 10px;
+   margin: auto; 
+   margin-top: 30px;
+}
+
+.contactName {
+  width: 250px;
+  height: 30px;
+  text-align: center;
+  background-color: rgb(163, 64, 64);
+  border-radius: 5px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.contact {
+  width: 300px;
+  margin: auto;
+  border-radius: 10px;
+  background-color: #999913;
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.detail {
+  margin-top: 20px;
+  text-align: left;
+  padding-left: 20px;
+}
